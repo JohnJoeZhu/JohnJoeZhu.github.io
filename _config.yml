@@ -24,13 +24,15 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  name             : "Jiongyu Zhu"
+  pronouns         : "he/his" # example: "she/her"  
+  # bio              : "Short biography for the left-hand sidebar"
+  location         : "Shanghai, China"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  gmail            : "johnjoezhu200@gmail" 
+  academy email    : "2430XH10052@m.fudan.edu.cn"
+  phone            : "15362577391"
 
   # Academic websites
 #  academia         : # URL
