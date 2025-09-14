@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Jiongyu Zhu's Pages"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,4 +10,6 @@ redirect_from:
 
 **About ME**
 
-Second year undergraduate student in Fudan University in Shanghai, China.
+Second year undergraduate student in Fudan University in Shanghai, China. 
+
+Major in Maths and AI
